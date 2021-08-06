@@ -1,3 +1,7 @@
 base
+<<<<<<< Updated upstream
 com1
 stash3
+=======
+stash2
+>>>>>>> Stashed changes
