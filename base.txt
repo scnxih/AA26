@@ -1,6 +1,13 @@
  base
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ff
+=======
+stash
+
+stash2
+stash3
+>>>>>>> Stashed changes
 =======
 stash
 
