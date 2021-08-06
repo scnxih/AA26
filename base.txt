@@ -1,2 +1,3 @@
 base
 com1
+stash3
