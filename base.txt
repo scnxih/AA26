@@ -1,15 +1,2 @@
 base
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-com1
-stash3
-=======
-stash2
->>>>>>> Stashed changes
-=======
-stash2
->>>>>>> Stashed changes
-=======
-stash2
->>>>>>> Stashed changes
+远程变化
